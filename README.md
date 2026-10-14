@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/vailware-logo.png" width="260" alt="VailWare">
+<img src="vailware-logo.png" width="260" alt="VailWare">
 
 # VailWare Free
 
@@ -12,7 +12,7 @@
 
 </div>
 
-![Интерфейс VailWare](assets/vailware-menu.png)
+![Интерфейс VailWare](vailware-menu.png)
 
 ## О проекте
 
